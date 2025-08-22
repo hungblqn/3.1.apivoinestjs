@@ -5,6 +5,8 @@ run project: npm run start
 jest unit test: npm test
 swagger docs: localhost:3000/docs
 
+dùng seed.ts để tạo nhiều bản ghi phục vụ cho mục đích test 100 bản ghi
+
 unit test result:
 npm test
 
