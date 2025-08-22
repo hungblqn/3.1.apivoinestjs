@@ -1,0 +1,1 @@
+{"version":3,"file":"update-task.dto.d.ts","sourceRoot":"","sources":["../../../src/tasks/dto/update-task.dto.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,aAAa,EAAE,MAAM,mBAAmB,CAAC;AAElD,OAAO,EAAE,UAAU,EAAE,MAAM,qBAAqB,CAAC;;AAEjD,qBAAa,aAAc,SAAQ,kBAA0B;IAG3D,MAAM,CAAC,EAAE,UAAU,CAAC;CACrB"}
