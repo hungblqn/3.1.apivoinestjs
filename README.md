@@ -1,15 +1,15 @@
 # apivoinestjs
 
-setup: npm i
-run project: npm run start
-jest unit test: npm test
-swagger docs: localhost:3000/docs
+setup: npm i<br/>
+run project: npm run start<br/>
+jest unit test: npm test<br/>
+swagger docs: localhost:3000/docs<br/>
+<br/>
+dùng seed.ts để tạo nhiều bản ghi phục vụ cho mục đích test 100 bản ghi<br/>
 
-dùng seed.ts để tạo nhiều bản ghi phục vụ cho mục đích test 100 bản ghi
-
-unit test result:
-npm test
-
+unit test result:<br/>
+npm test<br/>
+<br/>
 > nestjs-tasks-mongo@1.0.0 test
 > jest
 
