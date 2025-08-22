@@ -10,20 +10,21 @@ dùng seed.ts để tạo nhiều bản ghi phục vụ cho mục đích test 10
 unit test result:<br/>
 npm test<br/>
 <br/>
-> nestjs-tasks-mongo@1.0.0 test
-> jest
-
- PASS  test/tasks.service.spec.ts (6.757 s)
-  TasksService
-    √ should create a task (17 ms)
-    √ should get all tasks (lean array) (5 ms)
-
-Test Suites: 1 passed, 1 total
-Tests:       2 passed, 2 total
-Snapshots:   0 total
-Time:        8.451 s
-Ran all test suites.
-
-
+> nestjs-tasks-mongo@1.0.0 test<br/>
+> jest<br/>
+<br/>
+ PASS  test/tasks.service.spec.ts (6.757 s)<br/>
+  TasksService<br/>
+    √ should create a task (17 ms)<br/>
+    √ should get all tasks (lean array) (5 ms)<br/>
+<br/>
+Test Suites: 1 passed, 1 total<br/>
+Tests:       2 passed, 2 total<br/>
+Snapshots:   0 total<br/>
+Time:        8.451 s<br/>
+Ran all test suites.<br/>
+<br/>
+<br/>
 get 100 tasks test with postman -> 12ms result
+<br/>
 <img width="1354" height="841" alt="image" src="https://github.com/user-attachments/assets/bee5112e-88ba-4d56-83a7-75e660c855ab" />
